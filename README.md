@@ -1,2 +1,0 @@
-# LaunchUpdater
-Launcher Update program
